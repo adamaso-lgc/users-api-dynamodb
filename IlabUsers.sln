@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{2B563D3D-4479-4898-B423-FDD47707333C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{E84A5D0F-CF02-454A-B215-6F5E244FC174}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LetsGetChecked.IlabUsers.Api", "src\LetsGetChecked.IlabUsers.Api\LetsGetChecked.IlabUsers.Api.csproj", "{34CD1AB8-7DE6-468D-A187-CF1779F25AB4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".Solution Files", ".Solution Files", "{25348360-33B0-4D40-8C79-A7AA5CECBB33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{34CD1AB8-7DE6-468D-A187-CF1779F25AB4} = {2B563D3D-4479-4898-B423-FDD47707333C}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34CD1AB8-7DE6-468D-A187-CF1779F25AB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34CD1AB8-7DE6-468D-A187-CF1779F25AB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34CD1AB8-7DE6-468D-A187-CF1779F25AB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34CD1AB8-7DE6-468D-A187-CF1779F25AB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
