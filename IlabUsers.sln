@@ -14,8 +14,6 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "dynamodb", "dynamodb", "{9931E8A8-7A42-4F8D-B1F7-768DBBBFD668}"
 	ProjectSection(SolutionItems) = preProject
 		dynamodb\v1.0.0\1_create_tables.sh = dynamodb\v1.0.0\1_create_tables.sh
-		dynamodb\v1.0.0\1_table_setup.ps1 = dynamodb\v1.0.0\1_table_setup.ps1
-		dynamodb\v1.0.0\2_continuous_backups.ps1 = dynamodb\v1.0.0\2_continuous_backups.ps1
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".docker", ".docker", "{851E7DA2-1B62-4583-B605-8F836C071F9F}"
