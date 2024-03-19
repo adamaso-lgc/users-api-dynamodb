@@ -7,9 +7,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LetsGetChecked.IlabUsers.Api", "src\LetsGetChecked.IlabUsers.Api\LetsGetChecked.IlabUsers.Api.csproj", "{34CD1AB8-7DE6-468D-A187-CF1779F25AB4}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".Solution Files", ".Solution Files", "{25348360-33B0-4D40-8C79-A7AA5CECBB33}"
-	ProjectSection(SolutionItems) = preProject
-		main.tf = main.tf
-	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "dynamodb", "dynamodb", "{9931E8A8-7A42-4F8D-B1F7-768DBBBFD668}"
 	ProjectSection(SolutionItems) = preProject
